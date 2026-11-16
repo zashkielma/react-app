@@ -17,5 +17,16 @@
     "database_id": "aba4d40d-b153-428c-a371-bb489a52967c",
     "migrations_dir": "drizzle"
   }
-]
+],
+
+"previews": {
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "libreria-preview",
+      "database_id": "b6ab5df7-a12d-44f7-8ec6-a90ff415f778"
+    }
+  ]
+}
+
 }
